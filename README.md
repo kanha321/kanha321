@@ -6,8 +6,8 @@ I'm an **Android Developer** and **Software Engineer** with a passion for buildi
 
 ## 🌟 About Me
 
-- 💼 **Lead & Sole Android Developer at Doodlebook Pvt. Ltd.**: Created **Neox**, a social media platform empowering creators to monetize their content from day one. Developed the entire Android front-end from scratch, implemented APIs, and integrated essential social media features.
-- 🛠 **Freelance Android Developer**: Developed the **NIMCET Rank Predictor** app, an Android application built with Jetpack Compose, supporting features like OTP verification, secure data submission, and rank prediction.
+- 💼 **Lead & Sole Android Developer at Doodlebook Pvt. Ltd. (Feb 2022 - Sep 2022)**: Created **Neox**, a social media platform empowering creators to monetize their content from day one. Developed the entire Android front-end from scratch, implemented APIs, and integrated essential social media features.
+- 🛠 **Freelance Android Developer**: Developed the **NIMCET Rank Predictor (June 2024)** app, an Android application built with Jetpack Compose, supporting features like OTP verification, secure data submission, and rank prediction.
 - 🎓 **Education**: Master's in Computer Application at MNNIT Allahabad
 - 📚 **Teaching Experience**: Former instructor in C/C++ and Java, focusing on project-based learning to make complex topics engaging.
 
