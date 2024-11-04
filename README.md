@@ -28,7 +28,6 @@ I'm an **Android Developer** and **Software Engineer** with a passion for buildi
 - **Neox**: A social media app for creators to earn from their content immediately (developed for Doodlebook Pvt. Ltd.)
 - **NIMCET Rank Predictor**: Jetpack Compose app predicting ranks and colleges based on marks (freelance project)
 - **Device Control**: An app with wallpaper-based theming, allowing users to control connected devices (personal project)
-- **StatusSaver**: App for downloading WhatsApp status of contacts (personal project)
 
 ---
 
