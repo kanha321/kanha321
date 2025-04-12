@@ -17,7 +17,7 @@ I'm an **Android Developer** and **Software Engineer** with a passion for buildi
 
 - **Programming Languages**: Java, Kotlin, C++, C, Batch Scripting
 - **Android Development**: Android SDK, Material Design, Jetpack Compose, ExoPlayer, API integration, Firebase
-- **Tools & Libraries**: Git/GitHub, Volley, Picasso, Glide, Linux
+- **Tools & Libraries**: Git/GitHub, Ktor-Client, Kamel, Glide, Linux, Spring boot
 - **UI/UX Development**: Experienced in creating modern, intuitive interfaces
 
 ---
@@ -31,6 +31,18 @@ I'm an **Android Developer** and **Software Engineer** with a passion for buildi
 
 ---
 
+## 🏆 Achievements
+
+- 👨‍💻 **Sole Android Developer at Doodlebook Pvt. Ltd.**  
+  Successfully completed an internship as the only Android developer — built the entire Android front-end from scratch at a time when no AI tools were involved.
+
+- 🎖️ **Special Mention for “Dhwanii”**  
+  Received special recognition for the project **Dhwanii** during the tech fest **Avishkar 2024**.
+
+- 🥇 **Winner – DevJam 2025**  
+  Awarded first place for **Sign It or Miss It**, a Unity-based 3D game, at **DevJam 2025**.
+
+
 ## 📄 Certifications
 
 - 🎓 **Meta Android Developer**: Android development with Kotlin (by Meta)
@@ -42,7 +54,7 @@ I'm an **Android Developer** and **Software Engineer** with a passion for buildi
 ## 📫 Get in Touch
 
 - 📧 **Email**: shubh.sg321@gmail.com
-- 💼 **LinkedIn**: [Shubham Gupta](https://www.linkedin.com/in/shubham-gupta-593787219)
+- 💼 **LinkedIn**: [Shubham Gupta](https://www.linkedin.com/in/kanha321)
 - 💻 **GitHub**: [kanha321](https://github.com/kanha321)
 
 Let's connect and collaborate on exciting tech projects! 🚀
