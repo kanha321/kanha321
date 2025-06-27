@@ -10,7 +10,7 @@ A **Full Stack Cross-Platform App Developer** who began **Android development wi
 - 💼 **Lead & Sole Android Developer at Doodlebook Pvt. Ltd. (Feb 2022 – Sep 2022)**  
   Developed **Neox**, a social media platform empowering creators to monetize content from day one. Built the entire Android front-end from scratch, implemented REST APIs, and integrated core social features — all without AI assistance.
 
-- 🛠 **Freelance Android Developer (June 2024)**  
+- 🛠 **Freelance Android Developer (June 2024 - Present)**  
   Created **NIMCET Rank Predictor**, a Jetpack Compose-based Android app featuring OTP verification, secure form submission, and college prediction based on marks.
 
 - 🎮 **Game Developer**  
