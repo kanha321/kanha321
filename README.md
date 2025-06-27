@@ -46,7 +46,7 @@ A **Full Stack Cross-Platform App Developer** who began **Android development wi
   Social media app for creators to monetize content instantly — built entirely during internship at Doodlebook.
 
 - 📊 **NIMCET Rank Predictor** (private repo)  
-  Compose-based Android app that predicts ranks and eligible colleges using real-time form inputs.
+  A Kotlin MultiPlatform App that predicts ranks and eligible colleges using real-time form inputs.
 
 - 🎨 [**Device Control**](https://github.com/kanha321/Droid-Commander)  
   Wallpaper-themed smart control app allowing users to manage connected devices with a personalized UI.
