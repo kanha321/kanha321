@@ -1,89 +1,66 @@
-# Hi there, I'm Shubham Gupta! 👋
+# Hi, I'm Shubham Gupta 👋
 
-A **Full Stack Cross-Platform App Developer** who began **Android development with Java** in **May 2021**, **long before AI-assisted development tools became available**. Currently, I'm pursuing my **Master's in Computer Application** at **MNNIT Allahabad**, and expanding my skills in **Spring Boot** and **Kotlin Multiplatform (KMP)** to create scalable, modern software.
+**Android & Kotlin Multiplatform developer** who also builds developer tools and system-level utilities.
 
+I started with Android in Java in 2021, moved to Kotlin and Jetpack Compose, and now spend a good part of my time on KMP, Spring Boot, Rust and Linux tooling. I'm doing my MCA at **MNNIT Allahabad (2024 – 2027)**.
 
----
-
-## 🌟 About Me
-
-- 💼 **Lead & Sole Android Developer at Doodlebook Pvt. Ltd. (Feb 2022 – Sep 2022)**  
-  Developed **Neox**, a social media platform empowering creators to monetize content from day one. Built the entire Android front-end from scratch, implemented REST APIs, and integrated core social features — all without AI assistance.
-
-- 🛠 **Freelance Android Developer (June 2024 - Present)**  
-  Created **NIMCET Rank Predictor**, a Jetpack Compose-based Android app featuring OTP verification, secure form submission, and college prediction based on marks.
-
-- 🎮 **Game Developer**  
-  Designed and developed **Sign It or Miss It**, a 3D Unity game that won **DevJam 2025**. The game features fast-paced mechanics focused on timing and precision.
-
-- 🎓 **Education**  
-  Currently pursuing **MCA (2024–2027)** at **MNNIT Allahabad**.  
-  Completed **BCA (2020–2023)** from **St. Thomas College, Bhilai**.
-
-- 📚 **Teaching Experience**  
-  Former instructor in **C/C++** and **Java**, with a project-based teaching approach to simplify complex concepts.
+Most of what I build starts with something that annoyed me: a campus proxy that kept breaking, a timetable PDF I didn't want to retype, a Neovim setup that took too long to configure.
 
 ---
 
-## 🛠 Skills
+## 🚀 Featured projects
 
-- **Languages**: Java, Kotlin, C++, C, Batch Scripting, C#
-- **Android Development**: Jetpack Compose, Material Design 3, Firebase, ExoPlayer, Android SDK, REST API integration
-- **Cross-platform Development**: Kotlin Multiplatform (KMP), Kotlin/Native
-- **Backend Development**: Spring Boot (REST APIs, MVC)
-- **Game Development**: Unity (C#), 3D gameplay and UI
-- **Tools & Frameworks**: Git & GitHub, Glide, Kamel, KMP, Spring Boot
-- **UI/UX**: Proficient in crafting intuitive, modern interfaces using Material Design principles
+| Project | What it is | Stack |
+| :--- | :--- | :--- |
+| **Iris** *(image recognition & indexing service)* | Android app for semantic image and video search, backed by an async media-processing pipeline (object detection, OCR, vector search). | Kotlin, Jetpack Compose, FastAPI, Celery, Redis, PostgreSQL + pgvector, CLIP, YOLOv8, EasyOCR |
+| [**core-framework**](https://github.com/kanha321/core-framework) | Modular Compose architecture library: dynamic theming, in-app updates, encrypted storage, Navigation 3 shell, animated backgrounds. Published via JitPack. | Kotlin, Jetpack Compose, Koin, Ktor, Material 3 |
+| [**Upastithi**](https://github.com/kanha321/Upastithi) | Timetable and attendance tracker that parses official university timetable PDFs on-device and calculates safe attendance margins. | Kotlin, Compose, Room, PDFBox, Ktor |
+| [**MWI – Media Without Internet**](https://github.com/kanha321/mwi) | Local streaming platform for campus LANs: adaptive bitrate (DASH/HLS), chunked uploads up to 10 GB, 4K playback with no internet. | Kotlin, Spring Boot, SQLite |
+| [**ProxyMan**](https://github.com/kanha321/ProxyMan) | Zero-config transparent proxy for Windows. It intercepts traffic at the kernel level and auto-switches between campus proxy and direct mode. | C++17, WinDivert, CMake |
+| [**egui-widgetkit**](https://github.com/kanha321/egui-toolkit) | Spring-physics UI components for egui with Vim-style keyboard navigation and a token-based theme system. | Rust, egui |
+| **EchoStrike** | Audio-only LAN tennis game for visually impaired players, using phone motion sensors and an on-device TensorFlow Lite model. Built in 36 hours (Hack36, 4th place). | Kotlin, TensorFlow Lite, Python |
 
----
+### More things I've built
 
-## 🚀 Featured Projects
-
-- 📺 [**MWI**](https://github.com/kanha321/mwi)  
-  Offline video streaming app for campus LANs, enabling high-speed playback without internet.
-
-- 📱 **Neox** (private repo)  
-  Social media app for creators to monetize content instantly — built entirely during internship at Doodlebook.
-
-- 📊 **NIMCET Rank Predictor** (private repo)  
-  A Kotlin MultiPlatform App that predicts ranks and eligible colleges using real-time form inputs.
-
-- 🎨 [**Device Control**](https://github.com/kanha321/Droid-Commander)  
-  Wallpaper-themed smart control app allowing users to manage connected devices with a personalized UI.
-
-- 🕹 [**Sign It or Miss It**](https://github.com/4SumMNNIT/SIMI)  
-  3D Unity game with gesture-based mechanics — awarded **Winner** at **DevJam 2025**.
+- [**LumosRGB**](https://github.com/kanha321/LumosRGB): modular RGB lighting studio with Lua scripting and OpenRGB control (Rust workspace).
+- [**rdr2-openrgb**](https://github.com/kanha321/rdr2-openrgb): reactive keyboard lighting for Red Dead Redemption 2 based on region, time and weather.
+- [**LinkedLeet**](https://github.com/kanha321/LinkedLeet): Chrome extension + Spring Boot bridge that opens LeetCode stubs in Neovim.
+- [**Priv-app_Installer**](https://github.com/kanha321/Priv-app_Installer): generates Magisk/KernelSU modules to install apps as privileged system apps.
+- [**sudoHunt**](https://github.com/kanha321/sudoHunt_story): a Linux learning game where you explore a castle and find keys by using real shell commands.
+- [**mat-nvim**](https://github.com/kanha321/mat-nvim): Material 3 inspired Neovim configuration with a built-in competitive programming workflow.
+- [**EZ-CPP-Installer**](https://github.com/kanha321/EZ-CPP-Installer): one-command C/C++ environment setup for Windows.
 
 ---
 
-## 🏆 Achievements
+## 🛠 Tech I work with
 
-- 👨‍💻 **Internship at Doodlebook Pvt. Ltd.**  
-  Sole Android developer — built entire Android functionality independently, in an era before AI-assisted tools.
-
-- 🎖️ **Special Mention for “Dhwanii”**  
-  Received accolades at **Avishkar 2024**, a premier tech fest, for the innovative project **Dhwanii**.
-
-- 🥇 **Winner – DevJam 2025**  
-  Created **Sign It or Miss It**, a 3D Unity game that won top honors at **DevJam 2025**.
-
----
-
-## 📄 Certifications
-
-- 🎓 **Meta Android Developer** – Android Development with Kotlin (by Meta)
-- 🏆 **Internship Certificate** – Android Developer at Doodlebook Pvt. Ltd.
-- 📜 **Instructor Certificate** – C/C++ and Java Instructor at BinaryOne
+| | |
+| :--- | :--- |
+| **Mobile** | Kotlin, Jetpack Compose, Kotlin Multiplatform, MVVM, Room, ExoPlayer, Material 3 |
+| **Backend** | Spring Boot, FastAPI, Node.js, REST APIs, MongoDB, MySQL, PostgreSQL, SQLite |
+| **Languages** | Kotlin, Java, Python, C++, Rust, C# |
+| **ML / media** | TensorFlow Lite, CLIP, YOLOv8, DASH/HLS streaming |
+| **Tools** | Git, Linux (Arch), Neovim, ADB, Docker |
 
 ---
 
-## 📫 Get in Touch
+## 💼 Experience
 
-- 📧 **Email**: shubh.sg321@gmail.com  
-- 💼 **LinkedIn**: [Shubham Gupta](https://www.linkedin.com/in/kanha321)  
-- 💻 **GitHub**: [kanha321](https://github.com/kanha321)
+- **Android Developer, Acme Academy** (May – Jun 2024, May – Jun 2025): led the NIMCET Rank Predictor in Kotlin Multiplatform with a shared Compose UI across Android, Desktop and iOS, later extended to more MCA entrance exams.
+- **Android Developer Intern, Doodlebook Pvt. Ltd.** (Feb – Sep 2022): sole Android developer on Neox, a social media platform. Built the full Java front end, including short-form and long-form video playback with ExoPlayer.
 
 ---
 
-Thanks for visiting my profile! 😊
+## 🏆 Highlights
 
+- 🥇 **Winner, DevJam 2025**: *Sign It or Miss It*, a real-time 3D hand-tracking Unity game ([repo](https://github.com/4SumMNNIT/SIMI)).
+- 🥉 **4th place, Hack36 2025** (national hackathon): EchoStrike.
+- 🎯 **NIMCET 2024: All India Rank 190** out of nearly 25,000 candidates.
+- 🏅 **Finalist, CodeSangam 2024**: *Dhwanii*, with a special mention for the JavaFX media player.
+
+---
+
+## 📫 Get in touch
+
+- 📧 [shubh.sg321@gmail.com](mailto:shubh.sg321@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kanha321)
