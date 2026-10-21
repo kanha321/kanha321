@@ -2,7 +2,7 @@
 
 **Android & Kotlin Multiplatform developer** who also builds developer tools and system-level utilities.
 
-I started with Android in Java in 2021, moved to Kotlin and Jetpack Compose, and now spend a good part of my time on KMP, Spring Boot, Rust and Linux tooling. I'm doing my MCA at **MNNIT Allahabad (2024 – 2027)**.
+I started with Android in Java in 2021, long before AI coding assistants were part of everyday development. I learned to build apps by hand, and today I work in an **AI-assisted** way: the AI speeds up the work, while the design, the review and the final call stay with me. I'm doing my MCA at **MNNIT Allahabad (2024 – 2027)**.
 
 Most of what I build starts with something that annoyed me: a campus proxy that kept breaking, a timetable PDF I didn't want to retype, a Neovim setup that took too long to configure.
 
@@ -12,13 +12,13 @@ Most of what I build starts with something that annoyed me: a campus proxy that 
 
 | Project | What it is | Stack |
 | :--- | :--- | :--- |
-| **Iris** *(image recognition & indexing service)* | Android app for semantic image and video search, backed by an async media-processing pipeline (object detection, OCR, vector search). | Kotlin, Jetpack Compose, FastAPI, Celery, Redis, PostgreSQL + pgvector, CLIP, YOLOv8, EasyOCR |
+| [**Iris**](https://github.com/TeliarganjTesters/Iris-Frontend) *(image recognition & indexing service)* | Android app for semantic image and video search, backed by an async media-processing pipeline (object detection, OCR, vector search). | Kotlin, Jetpack Compose, FastAPI, Celery, Redis, PostgreSQL + pgvector, CLIP, YOLOv8, EasyOCR |
 | [**core-framework**](https://github.com/kanha321/core-framework) | Modular Compose architecture library: dynamic theming, in-app updates, encrypted storage, Navigation 3 shell, animated backgrounds. Published via JitPack. | Kotlin, Jetpack Compose, Koin, Ktor, Material 3 |
 | [**Upastithi**](https://github.com/kanha321/Upastithi) | Timetable and attendance tracker that parses official university timetable PDFs on-device and calculates safe attendance margins. | Kotlin, Compose, Room, PDFBox, Ktor |
 | [**MWI – Media Without Internet**](https://github.com/kanha321/mwi) | Local streaming platform for campus LANs: adaptive bitrate (DASH/HLS), chunked uploads up to 10 GB, 4K playback with no internet. | Kotlin, Spring Boot, SQLite |
 | [**ProxyMan**](https://github.com/kanha321/ProxyMan) | Zero-config transparent proxy for Windows. It intercepts traffic at the kernel level and auto-switches between campus proxy and direct mode. | C++17, WinDivert, CMake |
 | [**egui-widgetkit**](https://github.com/kanha321/egui-toolkit) | Spring-physics UI components for egui with Vim-style keyboard navigation and a token-based theme system. | Rust, egui |
-| **EchoStrike** | Audio-only LAN tennis game for visually impaired players, using phone motion sensors and an on-device TensorFlow Lite model. Built in 36 hours (Hack36, 4th place). | Kotlin, TensorFlow Lite, Python |
+| [**EchoStrike**](https://github.com/4SumHack36/EchoStrike) | Audio-only LAN tennis game for visually impaired players, using phone motion sensors and an on-device TensorFlow Lite model. Built in 36 hours (Hack36, 4th place). | Kotlin, TensorFlow Lite, Python |
 
 ### More things I've built
 
@@ -41,6 +41,21 @@ Most of what I build starts with something that annoyed me: a campus proxy that 
 | **Languages** | Kotlin, Java, Python, C++, Rust, C# |
 | **ML / media** | TensorFlow Lite, CLIP, YOLOv8, DASH/HLS streaming |
 | **Tools** | Git, Linux (Arch), Neovim, ADB, Docker |
+
+---
+
+## 🤖 AI-assisted development
+
+**The foundation is hand-written.** My first Android apps (2021) and Neox at Doodlebook (2022), where I was the only Android developer, were built without AI tools: UI design, API integration, ExoPlayer tuning, debugging on low-end devices. That's why I understand what the code I ship is actually doing.
+
+**Today my workflow is AI-assisted, and I stay in the driver's seat:**
+
+- **I own the design.** Architecture, module boundaries, data models and API contracts come from me, and I write them down before any code is generated (see the `docs/` folders in [LumosRGB](https://github.com/kanha321/LumosRGB) and [ProxyMan](https://github.com/kanha321/ProxyMan)).
+- **I give precise instructions.** I tell the AI what to build, which constraints apply, and what "done" looks like, instead of asking it to "make an app".
+- **I review everything it writes.** I can debug, rewrite or throw away any part of the output.
+- **I verify the result.** Builds, tests and runs on a real device decide whether something ships.
+
+AI-assisted, not AI-generated: it makes me faster, and the engineering decisions remain mine.
 
 ---
 
