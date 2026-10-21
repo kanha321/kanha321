@@ -34,6 +34,7 @@ Most of what I build starts with something that annoyed me: a campus proxy that 
 
 ## 🛠 Tech I work with
 
+| | |
 | :--- | :--- |
 | **Mobile** | Kotlin, Jetpack Compose, Kotlin Multiplatform, MVVM, Room, ExoPlayer, Material 3 |
 | **Backend** | Spring Boot, FastAPI, Node.js, REST APIs, MongoDB, MySQL, PostgreSQL, SQLite |
